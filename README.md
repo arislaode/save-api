@@ -2,8 +2,8 @@
 - API Bussiness & technology news use http://newsapi.org/
 
 - Database MongoDB:
-  - Database name: newsapi
-  - Collection name: newsapi_data
+  - Create database name: newsapi
+  - Creat collection name: newsapi_data
 
 - install enviroment --> virtualenv env 
 
